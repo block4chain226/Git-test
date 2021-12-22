@@ -1,1 +1,4 @@
 text from second
+main text
+new text
+
